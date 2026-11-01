@@ -212,6 +212,7 @@ a:hover { text-decoration-color: var(--acento); }
 /* ---------- Mobile e acessibilidade ---------- */
 @media (max-width: 40rem) {
   body { font-size: 1rem; }
+  file:///D:/Usuarios/Arthur/Downloads/techmundo.html#newsletter
   .mais-lidas { border-left: 0; border-top: 1px solid var(--linha); padding: 1.5rem 0 0; }
 }
 
