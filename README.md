@@ -219,3 +219,4 @@ a:hover { text-decoration-color: var(--acento); }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+file:///D:/Usuarios/Arthur/Downloads/techmundo.html#noticias
